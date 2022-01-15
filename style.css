@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Lato:ital,wght@0,100;0,300;0,400;1,400;1,700;1,900&family=Nunito+Sans:wght@300;400;600;700;800;900&family=Open+Sans&family=Oswald:wght@300;700&family=Outfit:wght@300;400;600&family=Playfair+Display:wght@400;600;747;800&family=Poppins&family=Red+Hat+Display:ital,wght@0,700;0,900;1,500&family=Roboto:wght@300;500&family=Work+Sans:wght@400;500;600;700&display=swap');
+ * {
+     box-sizing: border-box;
+     margin:0;
+     padding:0;
+   }
+
+body{
+ font-family: "Outfit", sans-serif;
+}
+.hero-section{
+background-color:hsl(217, 54%, 11%);
+background-size: auto;
+}
+.hero-img{
+  border-radius:15px;
+}
+
+.heading{
+  color:hsl(0, 0%, 100%);
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-top:1.5rem;
+}
+.text{
+  color:hsl(215, 51%, 70%);
+  font-size: 300;
+  font-size: 18px;
+  margin:1.3rem 0;
+}
+
